@@ -1,0 +1,65 @@
+{
+ "board": "item-board",
+ "stage": 1,
+ "unit": "M",
+ "asof": "2026-11-13",
+ "generated": "2026-11-13 23:20:35",
+ "source": "발주관리 11/13 13:29 · 직전 측정 11/12 대비",
+ "key": [
+  {
+   "name": "전체 매입 진척",
+   "value": 88,
+   "unit": "%",
+   "text": "88%"
+  },
+  {
+   "name": "조치 대상",
+   "value": 26,
+   "unit": "건",
+   "text": "26건"
+  },
+  {
+   "name": "방치",
+   "value": 9,
+   "unit": "건",
+   "text": "9건"
+  }
+ ],
+ "blocked": [
+  {
+   "what": "모자(잡화) 계획 재검토",
+   "size": 472,
+   "unit": "M",
+   "size_text": "472M",
+   "deadline": null
+  },
+  {
+   "what": "신발(남성) 계획 재검토",
+   "size": 395,
+   "unit": "M",
+   "size_text": "395M",
+   "deadline": null
+  },
+  {
+   "what": "지갑(잡화) 계획 재검토",
+   "size": 279,
+   "unit": "M",
+   "size_text": "279M",
+   "deadline": null
+  },
+  {
+   "what": "패딩다운(여성) 계획 재검토",
+   "size": 231,
+   "unit": "M",
+   "size_text": "231M",
+   "deadline": null
+  },
+  {
+   "what": "자켓(여성) 계획 재검토",
+   "size": 193,
+   "unit": "M",
+   "size_text": "193M",
+   "deadline": null
+  }
+ ]
+}
